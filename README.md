@@ -34,7 +34,11 @@ The following modules are used in this project:
 ---
 
 ## Sample Video
-- Sample input video is included in the repository [path/to/sample_video.mp4](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
+👉 [Click here to watch the sample video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
+
+---
+## 📽️ Final Output Video
+👉 [Click here to watch the output]([https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing](https://drive.google.com/file/d/1DuVggxMLfBiv4kuPjB0byvQMrz4KfcQ7/view?usp=sharing)
 
 ---
 
@@ -49,7 +53,3 @@ The following modules are used in this project:
 - shutil
 - os
 - scikit-learn
-
-You can install dependencies with:
-
-```bash
