@@ -34,11 +34,15 @@ The following modules are used in this project:
 ---
 
 ## Sample Video
+- Sample input video is included in the repository  
 👉 [Click here to watch the sample video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
 
 ---
+
 ## 📽️ Final Output Video
-👉 [Click here to watch the output]([https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing](https://drive.google.com/file/d/1DuVggxMLfBiv4kuPjB0byvQMrz4KfcQ7/view?usp=sharing)
+
+-Watch the final output after passing the sample video to the model:  
+👉 [Click here to watch the output](https://drive.google.com/file/d/1DuVggxMLfBiv4kuPjB0byvQMrz4KfcQ7/view?usp=sharing)
 
 ---
 
