@@ -13,7 +13,7 @@ Finally, I calculated a player's **speed** and the **distance covered**.
 ---
 
 ## Screenshot
-![Football Screenshot](football%20screenshot.png)
+![Football Screenshot](https://github.com/Rudra116/Football-Match-Analysis-System/blob/main/football%20scrrenshot.png?raw=true)
 
 ---
 
